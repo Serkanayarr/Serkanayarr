@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Serkanayarr
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Hyper Casual Game
 - 📫 How to reach me https://www.linkedin.com/in/serkanayarr/
 
 <!---
